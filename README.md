@@ -2,7 +2,7 @@
 # PROJETO-AVIÃO-25-09-22
 
 
-<img src="./assets/LOGO.png/" width="500px" alt="logo">
+<img src="./img/logo.png/" width="500px" alt="logo">
 
 
 ### Ajustes e melhorias
